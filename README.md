@@ -1,1 +1,1 @@
-# deep_learning_corusework
+# deep_learning_coursework
